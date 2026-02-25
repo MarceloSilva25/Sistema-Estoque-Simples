@@ -1,0 +1,1 @@
+Projeto desenvolvido em Java com o objetivo de praticar conceitos fundamentais da linguagem, como: Estrutura de repetição (while), estruturas condicionais (if/else), orientação a objetos (classe Produto), uso de arrayList, entrada de dados com Scanner, tratamento de erro (InputMismatchException) , validação de entrada do usuário. 
